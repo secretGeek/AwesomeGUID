@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A list of awesome things related to Globally Unique Identifiers
+A list of awesome things related to Globally Unique Identifiers. Sorry if this whole idea is a bit mis-guid-ed.
 
 ## Tools
 
@@ -25,6 +25,10 @@ If every human on Earth worked as a GUID generator, and they spent their entire 
 
 Yes.
 
+* Should you put GUIDs in URLs?
+
+[Dont Put Guids in URLs](http://wiki.c2.com/?DontPutGuidsInUrls)
+
 ## Explanations
 
 * [The Quick Guide to GUIDs](https://betterexplained.com/articles/the-quick-guide-to-guids/)
@@ -33,3 +37,9 @@ Yes.
 ## Pronunciation Guide
 
 * Goo-id or gwid. You decide. 
+
+## Twitter Accounts for Lovers of the Guid
+
+* [@usedguid](https://twitter.com/usedguid): 100% guids 100% of the time.
+* [@everyguid](https://twitter.com/everyguid): tweeting every globally unique identifier. 
+
