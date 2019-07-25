@@ -14,6 +14,14 @@ A list of awesome things related to Globally Unique Identifiers. Sorry if this w
 
 ![used_guids.jpeg](used_guids.jpeg)
 
+## Recycling and Upcycling
+
+Instead of single use guids, consider donating them for reliable reuse by an approved, accredited and reputable GUID recycler.
+
+![Please Recycle GUIDS here](guid_recycling.jpg)
+
+
+
 ## Frequently Asked Questions
 
 * What are the chances of collision?
@@ -37,6 +45,10 @@ Yes.
 ## Pronunciation Guide
 
 * Goo-id or gwid. You decide. 
+
+## Global GUID database
+
+* [GLOBAL UUID DATABASE](https://uuid.pirate-server.com) &mdash; World's most complete UUID database.
 
 ## Twitter Accounts for Lovers of the Guid
 
