@@ -31,11 +31,11 @@ If every human on Earth worked as a GUID generator, and they spent their entire 
 
 * Do guids make the best database identifiers?
 
-Yes.
+Yes. But I don't use them much for that myself.
 
 * Should you put GUIDs in URLs?
 
-[Dont Put Guids in URLs](http://wiki.c2.com/?DontPutGuidsInUrls)
+No. [Don't Put Guids in URLs](http://wiki.c2.com/?DontPutGuidsInUrls)
 
 ## Explanations
 
