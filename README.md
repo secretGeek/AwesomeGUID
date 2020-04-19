@@ -55,4 +55,5 @@ No. [Don't Put Guids in URLs](http://wiki.c2.com/?DontPutGuidsInUrls)
 
 - [@usedguid](https://twitter.com/usedguid): 100% guids 100% of the time.
 - [@everyguid](https://twitter.com/everyguid): tweeting every globally unique identifier. 
+- [@guids4druids](https://twitter.com/guids4druids): tweeting guids for druids
 
