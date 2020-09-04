@@ -25,22 +25,22 @@ Instead of single use guids, consider donating them for reliable reuse by an app
 
 ## Frequently Asked Questions
 
-- What are the chances of collision?
+### What are the chances of collision?
 
 If every human on Earth worked as a GUID generator, and they spent their entire working life generating guids at one guid per second, without even stopping for lunch, then by the time every human on earth had retired, the chances of a collision would be about 50%.
 
 
-- Do guids make the best database identifiers?
+### Do guids make the best database identifiers?
 
 Yes. But I don't use them much for that myself.
 
-- Should you put GUIDs in URLs?
+### Should you put GUIDs in URLs?
 
 No. [Don't Put Guids in URLs](http://wiki.c2.com/?DontPutGuidsInUrls)
 
 And if you do, **1 is enough!**
 
-- Can I register a domain named after a specific guid value?
+### Can I register a domain named after a specific guid value?
 
 Yes you certainly can, but hurry as they are going fast.
 
@@ -54,7 +54,7 @@ But as of September 2020, http://00000000-0000-0000-0000-000000000002.com is sti
 
 **Get in on it while you can.**
 
-There will never be another opportunity like this.
+*There will never be another opportunity like this.*
 
 
 
